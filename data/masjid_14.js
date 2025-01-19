@@ -1,0 +1,1 @@
+var json_masjid_14 = {"type":"FeatureCollection","name":"masjid_14","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"nama":"Masjid Raya","Gambar":"D:\\semester7\\uas dessy\\foto\\masjid.jpg"},"geometry":{"type":"Point","coordinates":[101.618548999311614,-0.494584471018142]}}]}
